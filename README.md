@@ -9,7 +9,7 @@ Winlator Gold is an Android application that lets you to run Windows (x86_64) ap
 
 # Installation Winlator Gold
 
-1. Download and install Winlator Gold APK from [GitHub Releases](https://github.com/gitlab-ai/winlator-gold/releases)
+1. Download and install Winlator Gold APK from [GitHub Releases](https://github.com/gitlabmyxa/winlator/releases)
 2. Launch the app and wait for the installation process to finish
 
 
