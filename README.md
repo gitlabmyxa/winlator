@@ -1,26 +1,21 @@
 <p align="center">
-	<img src="logo.png" width="376" height="128" alt="Winlator Logo" />  
+	<a href="https://github.com/gitlab-ai/winlator-gold/">
+	<img src="gitlab" width="376" height="128" alt="gitlab" />  
 </p>
+ 
+# Winlator Gold
 
-# Winlator
+Winlator Gold is an Android application that lets you to run Windows (x86_64) applications with Wine and Box86/Box64 Mesa Turnip driver DXVK.
 
-Winlator is an Android application that lets you to run Windows (x86_64) applications with Wine and Box86/Box64.
+# Installation Winlator Gold
 
-# Installation
-
-1. Download and install the APK from [GitHub Releases](https://github.com/brunodev85/winlator/releases)
+1. Download and install Winlator Gold APK from [GitHub Releases](https://github.com/gitlab-ai/winlator-gold/releases)
 2. Launch the app and wait for the installation process to finish
 
-----
-
-[![Play on Youtube](https://img.youtube.com/vi/ETYDgKz4jBQ/3.jpg)](https://www.youtube.com/watch?v=ETYDgKz4jBQ)
-[![Play on Youtube](https://img.youtube.com/vi/9E4wnKf2OsI/2.jpg)](https://www.youtube.com/watch?v=9E4wnKf2OsI)
-[![Play on Youtube](https://img.youtube.com/vi/czEn4uT3Ja8/2.jpg)](https://www.youtube.com/watch?v=czEn4uT3Ja8)
-[![Play on Youtube](https://img.youtube.com/vi/eD36nxfT_Z0/2.jpg)](https://www.youtube.com/watch?v=eD36nxfT_Z0)
 
 ----
 
-# Useful Tips
+# Useful Tips Winlator Gold
 
 - If you are experiencing performance issues, try changing the Box64 preset to `Performance` in Container Settings -> Advanced Tab.
 - For applications that use .NET Framework, try installing `Wine Mono` found in Start Menu -> System Tools -> Installers.
@@ -29,7 +24,7 @@ Winlator is an Android application that lets you to run Windows (x86_64) applica
 - To display low resolution games correctly, try to enabling the `Force Fullscreen` option in the shortcut settings.
 - To improve stability in games that uses Unity Engine, try changing the Box64 preset to `Stability` or in the shortcut settings add the exec argument `-force-gfx-direct`.
 
-# Information
+# Information Winlator Gold
 
 This project has been in constant development since version 1.0, the current app source code is up to version 7.1, I do not update this repository frequently precisely to avoid unofficial releases before the official releases of Winlator.
 
@@ -47,3 +42,4 @@ This project has been in constant development since version 1.0, the current app
 
 Many thanks to [ptitSeb](https://github.com/ptitSeb), [Danylo](https://blogs.igalia.com/dpiliaiev/tags/mesa/), [Max Ivan](https://github.com/Maxython), [Twaik Yont](https://github.com/twaik), [alexvorxx](https://github.com/alexvorxx) and others.<br>
 Thank you to all the people who believe in this project.
+￼Enter
