@@ -1,6 +1,6 @@
 <p align="center">
 	<a href="https://github.com/gitlab-ai/winlator-gold/">
-	<img src="gitlab" width="376" height="128" alt="gitlab" />  
+	<img src="wg" width="376" height="128" alt="gitlab" />  
 </p>
  
 # Winlator Gold
